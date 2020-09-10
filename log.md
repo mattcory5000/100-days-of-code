@@ -6,8 +6,12 @@
 **Today's Progress**: I completed the Github guide "Hello World" exercise, creating a repository, a branch, commits, a pull request, and a merge.
 **Today's Progress**: I've forked the 100-days-of-code repo and am using this log from it.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+## Day2: September 10, 2020
+
+**Today's Progress** I joined freecodecamp.org, signing in with github. I started at the beginning and made it 89% of the way through the first lesson on HTML and HTML5.
+
+**Thoughts** Almost everything so far is intuitive to me, except that radio button and checkbox inputs are grouped by name rather than simply by being nested in a form.
+
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-the-value-attribute-with-radio-buttons-and-checkboxes)
