@@ -12,6 +12,11 @@
 
 **Thoughts** Almost everything so far is intuitive to me, except that radio button and checkbox inputs are grouped by name rather than simply by being nested in a form.
 
+## Day3: September 11, 2020
+**Today's Progress**: I finished the HTML + HTML 5 section and completed 25% of the CSS section. I feel like the one hint I needed was a cheap shot on FCC's part, because I had used their recommended best practice of f including a generic fallback, which caused the tests to fail.
+
+**Thoughts** CSS is also mostly intuitive to me so far. Using a period to define a class and the distinct syntax between applying styles within an element vs inside <style> tags will take some remembering.
+
 
 **Link(s) to work**
-1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-the-value-attribute-with-radio-buttons-and-checkboxes)
+1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/make-circular-images-with-a-border-radius)
