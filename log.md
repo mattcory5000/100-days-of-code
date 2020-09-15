@@ -26,4 +26,4 @@
 **Thoughts** It was nice to have remembered most of what I had learned after three days off. I expect this to help me understand the CSS of SevenFifty pages well enough to solve Appcues problems.
 
 **Link(s) to work**
-[Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/attach-a-fallback-value-to-a-css-variable)
+1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/attach-a-fallback-value-to-a-css-variable)
