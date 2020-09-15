@@ -17,6 +17,13 @@
 
 **Thoughts** CSS is also mostly intuitive to me so far. Using a period to define a class and the distinct syntax between applying styles within an element vs inside <style> tags will take some remembering.
 
-
 **Link(s) to work**
 1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/make-circular-images-with-a-border-radius)
+
+## Day 4: September 15, 2020
+**Today's Progress**: I completed 89% of the Basic CSS section. I skipped yesterday to deal with the leaking washing machine.
+
+**Thoughts** It was nice to have remembered most of what I had learned after three days off. I expect this to help me understand the CSS of SevenFifty pages well enough to solve Appcues problems.
+
+**Link(s) to work**
+[Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/attach-a-fallback-value-to-a-css-variable)
