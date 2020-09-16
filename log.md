@@ -27,3 +27,12 @@
 
 **Link(s) to work**
 1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/attach-a-fallback-value-to-a-css-variable)
+
+## Day 5: September 16, 2020
+**Today's Progeress**: I completed the Basic CSS section and got through ~25% of the Applied Visual Design section. I just learned how to increase line height, which made me wonder whether I can now edit Hubspot email templates to be less ugly.
+
+**Thoughts** I think I'm getting a good practical understanding of how to use HTML and CSS, but some of the written descriptions are still a little confusing to me. I'm not completely certain, for instance, what a "selector" is. Another term popped up out of the blue that sounded important but that I didn't understand. On the other hand, while I had supposed that CSS "cascades" in the sense that on sheet cascades over the entire site, it sounds like it's the style that cascades from the top of the sheet down, such that the style applied closest to the bottom applies. I should check on that. I'm also excited to be learning (I think) markdown but updating this log!
+
+**Link(s) to work**
+1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-hover-state-of-an-anchor-tag)
+***
