@@ -36,3 +36,12 @@
 **Link(s) to work**
 1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-hover-state-of-an-anchor-tag)
 ***
+
+## Day 6: September 17, 2020
+**Today's Progress**: I made it through ~70% of the Applied Visual Design section. Today's exercises were mostly about color theory, which was very interesting. Some exercises were about position, which I can't say I'm completely clear about yet.
+
+**Thoughts**: I was reminded about some things I had learned before, like the specifics of how color hexcodes work. But I also learned a lot about the relationship beteween RGB, CYM, and tertiary colors, about tint, tone, lightness, darkness, and saturation.
+
+**Link(s) to work**
+1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-css-transform-property-skewx-to-skew-an-element-along-the-x-axis)
+***
