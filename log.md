@@ -44,3 +44,13 @@
 **Link(s) to work**
 1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-css-transform-property-skewx-to-skew-an-element-along-the-x-axis)
 ***
+
+***
+
+### Day 9: September 23, 2020
+**Today's Progress**: I made it over 50% through the Applied Accessibility section. 
+
+**Thoughts**: I tried to work on the couch in the living room today, and it was too distracting.
+
+**Link(s) to work**
+1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility)
