@@ -54,3 +54,13 @@
 
 **Link(s) to work**
 1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility)
+
+***
+
+### Day 10: September 24, 2020
+**Today's Progress**: I didn't make it much farther through the Applied Accessibility section today, but I'm back into CSS. I learned how to move elements off the visible page for screen readers to read.
+
+**Thoughts**: I tried to work on the couch in the living room again today, and I was distracted by Simone coming into the kitchen. Finding the right time to do this is going to be tough.
+
+**Link(s) to work**
+1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/improve-readability-with-high-contrast-text)
