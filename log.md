@@ -64,3 +64,13 @@
 
 **Link(s) to work**
 1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/improve-readability-with-high-contrast-text)
+
+***
+
+### Day 11: September 25, 2020
+**Today's Progress**: I completed the Applies Accessibility section. I learned about visual contrast, colorblindness, using keys to navigate and setting the tab index.
+
+**Thoughts**: I was excited to see how easy it would be to set keyboard shortcuts for SevenFifty. I've already forgotten the function that does it -- I'm not sure "function" is even the right name for this part of HTML -- but I assume I'll recognize and remember it and all the other terms I've forgotten when I start to see and use it.
+
+**Link(s) to work**
+1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles)
