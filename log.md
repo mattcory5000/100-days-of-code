@@ -74,3 +74,13 @@
 
 **Link(s) to work**
 1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles)
+
+***
+
+### Day 12: October 5, 2020
+**Today's Progress**: I completed the Responsive Web Design section and began the Felxbox section.
+
+**Thoughts**: It was a little hard to come back to this after over a week, and I had to use a hint to remind me of basic CSS on the first challenge. The Responsive Web Design section made sense to me, but at this point I don't understand how "display: flex;" works. I think 30 minutes each day will be much easire to stick with than an hour each day and that it will be exactly half as good. I think it's likely that in the long run my frequency will double and that my volume will catch up soon and then overtake what I'd accomplish in an hour a day.
+
+**Link(s) to work**
+1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-row)
