@@ -84,3 +84,13 @@
 
 **Link(s) to work**
 1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-row)
+
+***
+
+### Day 13: October 6, 2020
+**Today's Progress**: I made it 59% of the way through the Flexbox section of the Responsive Web Design course.
+
+**Thoughts**: I'm developing a practical understanding of flexboxes, but I still don't have a solid theoretical understanding of them.
+
+**Link(s) to work**
+1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-wrap-property-to-wrap-a-row-or-column)
