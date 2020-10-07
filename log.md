@@ -94,3 +94,10 @@
 
 **Link(s) to work**
 1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-wrap-property-to-wrap-a-row-or-column)
+
+### Day 14: October 7, 2020
+**Today's Progress**: I completed the Flexbox section of the Responsive Web Design course.
+
+**Thoughts**: It's making a little more theoretical sense. And it's interesting, because it helps me understand how the SevenFifty pages respond.
+
+1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/css-grid)
