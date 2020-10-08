@@ -100,4 +100,17 @@
 
 **Thoughts**: It's making a little more theoretical sense. And it's interesting, because it helps me understand how the SevenFifty pages respond.
 
+**Link(s) to work**
 1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/css-grid)
+
+***
+
+### Day 15: October 8, 2020
+**Today's Progres**: I completed 50% of the CCS Grid section.
+
+**Thoughts**: This is pretty clear to me. It's also fun because it's colorful.
+
+**Link(s) to work**
+1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-an-item-vertically-using-align-self)
+
+***
