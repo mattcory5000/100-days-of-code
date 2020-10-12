@@ -114,3 +114,13 @@
 1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-an-item-vertically-using-align-self)
 
 ***
+
+### Day 16: October 12, 2020
+**Today's Progres**: I completed the CCS Grid section and thus the CSS courses!
+
+**Thoughts**: I'm paying enough attention to the CSS in each exercise to solve the problem but not enough to understand how the whole page works. I'm hoping the upcoming Projects will force me to understand the enitre pages.
+
+**Link(s) to work**
+1. [Here's where I left off]https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects)
+
+***
