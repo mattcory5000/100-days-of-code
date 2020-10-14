@@ -121,6 +121,15 @@
 **Thoughts**: I'm paying enough attention to the CSS in each exercise to solve the problem but not enough to understand how the whole page works. I'm hoping the upcoming Projects will force me to understand the enitre pages.
 
 **Link(s) to work**
-1. [Here's where I left off]https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects)
+1. [Here's where I left off](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects)
 
 ***
+
+### Day 17: October 14, 2020
+**Today's Progress**: I read the instructions for the first project, created a codepen.io account, and went through the codepen.io walkthru.
+
+**Thoughts**: codepen.io looks like a very easy way to test out simple page ideas. I still don't really understand what it means to fork something. I suppose it's making a copy that then diverges from the original. 
+
+**Link(s) to work**
+1. [Here's where I left off in FCC](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+2. [Here's where I left off in codepen.io](https://codepen.io/freeCodeCamp/pen/MJjpwO)
